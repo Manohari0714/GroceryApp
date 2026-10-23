@@ -1,0 +1,24 @@
+{
+  "expo": {
+    "name": "GroceryShop",
+    "slug": "grocery-shop",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "backgroundColor": "#53B175"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#53B175"
+      }
+    },
+    "web": {},
+    "plugins": [
+      "expo-status-bar"
+    ]
+  }
+}
